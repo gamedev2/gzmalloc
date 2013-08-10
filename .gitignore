@@ -16,3 +16,7 @@
 *.obj
 *.exe
 *.lib
+
+*.aa
+*.bb
+
